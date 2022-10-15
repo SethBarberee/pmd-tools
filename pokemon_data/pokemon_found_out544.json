@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out544",
+    "pokemon": [
+        {
+            "species": "SPECIES_SABLEYE",
+            "level": 30,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_MAWILE",
+            "level": 20,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_ARON",
+            "level": 104,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_MEDITITE",
+            "level": 104,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_ELECTRIKE",
+            "level": 12,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

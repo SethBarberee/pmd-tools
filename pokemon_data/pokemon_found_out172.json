@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out172",
+    "pokemon": [
+        {
+            "species": "SPECIES_PRIMEAPE",
+            "level": 31,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_KANGASKHAN",
+            "level": 36,
+            "probability": 2666
+        },
+        {
+            "species": "SPECIES_TAUROS",
+            "level": 34,
+            "probability": 2667
+        },
+        {
+            "species": "SPECIES_IGGLYBUFF",
+            "level": 35,
+            "probability": 333
+        },
+        {
+            "species": "SPECIES_SHIFTRY",
+            "level": 35,
+            "probability": 2667
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

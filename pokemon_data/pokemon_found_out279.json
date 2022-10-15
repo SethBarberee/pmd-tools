@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out279",
+    "pokemon": [
+        {
+            "species": "SPECIES_RATICATE",
+            "level": 19,
+            "probability": 1628
+        },
+        {
+            "species": "SPECIES_GOLBAT",
+            "level": 10,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_MACHOP",
+            "level": 22,
+            "probability": 931
+        },
+        {
+            "species": "SPECIES_SNEASEL",
+            "level": 15,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_WHISMUR",
+            "level": 20,
+            "probability": 1861
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_WYNAUT",
+            "level": 20,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

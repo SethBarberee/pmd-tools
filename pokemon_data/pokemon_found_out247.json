@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out247",
+    "pokemon": [
+        {
+            "species": "SPECIES_DUGTRIO",
+            "level": 20,
+            "probability": 1489
+        },
+        {
+            "species": "SPECIES_ELECTRODE",
+            "level": 20,
+            "probability": 1702
+        },
+        {
+            "species": "SPECIES_HITMONLEE",
+            "level": 22,
+            "probability": 1490
+        },
+        {
+            "species": "SPECIES_HITMONCHAN",
+            "level": 22,
+            "probability": 1489
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 426
+        },
+        {
+            "species": "SPECIES_FORRETRESS",
+            "level": 23,
+            "probability": 1702
+        },
+        {
+            "species": "SPECIES_NUMEL",
+            "level": 14,
+            "probability": 1702
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

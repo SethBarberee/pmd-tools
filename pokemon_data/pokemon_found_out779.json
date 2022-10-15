@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out779",
+    "pokemon": [
+        {
+            "species": "SPECIES_ODDISH",
+            "level": 112,
+            "probability": 789
+        },
+        {
+            "species": "SPECIES_POLIWAG",
+            "level": 10,
+            "probability": 1316
+        },
+        {
+            "species": "SPECIES_FARFETCH",
+            "level": 10,
+            "probability": 1579
+        },
+        {
+            "species": "SPECIES_LEDYBA",
+            "level": 112,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_SUNFLORA",
+            "level": 8,
+            "probability": 2106
+        },
+        {
+            "species": "SPECIES_SHROOMISH",
+            "level": 9,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

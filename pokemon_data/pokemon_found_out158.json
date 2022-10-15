@@ -1,0 +1,30 @@
+{
+    "name": "pokemon_found_out158",
+    "pokemon": [
+        {
+            "species": "SPECIES_CLOYSTER",
+            "level": 35,
+            "probability": 3636
+        },
+        {
+            "species": "SPECIES_LILEEP",
+            "level": 40,
+            "probability": 4091
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_RELICANTH",
+            "level": 35,
+            "probability": 2273
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

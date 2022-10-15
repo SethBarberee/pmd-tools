@@ -1,0 +1,30 @@
+{
+    "name": "pokemon_found_out264",
+    "pokemon": [
+        {
+            "species": "SPECIES_NIDOKING",
+            "level": 21,
+            "probability": 3043
+        },
+        {
+            "species": "SPECIES_GOLEM",
+            "level": 15,
+            "probability": 3479
+        },
+        {
+            "species": "SPECIES_MAGMAR",
+            "level": 21,
+            "probability": 3478
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

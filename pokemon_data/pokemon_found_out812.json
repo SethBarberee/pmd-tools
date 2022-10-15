@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out812",
+    "pokemon": [
+        {
+            "species": "SPECIES_HITMONLEE",
+            "level": 22,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_HITMONCHAN",
+            "level": 22,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 477
+        },
+        {
+            "species": "SPECIES_MAGCARGO",
+            "level": 21,
+            "probability": 1904
+        },
+        {
+            "species": "SPECIES_MIGHTYENA",
+            "level": 17,
+            "probability": 1905
+        },
+        {
+            "species": "SPECIES_NUMEL",
+            "level": 14,
+            "probability": 1905
+        },
+        {
+            "species": "SPECIES_CASTFORM",
+            "level": 10,
+            "probability": 476
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

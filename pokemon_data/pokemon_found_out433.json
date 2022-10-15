@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out433",
+    "pokemon": [
+        {
+            "species": "SPECIES_PIKACHU",
+            "level": 30,
+            "probability": 3333
+        },
+        {
+            "species": "SPECIES_RAICHU",
+            "level": 25,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_MAGNEMITE",
+            "level": 25,
+            "probability": 3334
+        },
+        {
+            "species": "SPECIES_MAGNETON",
+            "level": 28,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_ELECTRIKE",
+            "level": 12,
+            "probability": 3333
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

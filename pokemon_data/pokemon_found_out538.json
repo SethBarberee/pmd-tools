@@ -1,0 +1,60 @@
+{
+    "name": "pokemon_found_out538",
+    "pokemon": [
+        {
+            "species": "SPECIES_ODDISH",
+            "level": 112,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_PARAS",
+            "level": 25,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_POLIWAG",
+            "level": 10,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_GRAVELER",
+            "level": 22,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_PONYTA",
+            "level": 30,
+            "probability": 1112
+        },
+        {
+            "species": "SPECIES_DODUO",
+            "level": 14,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_SEEL",
+            "level": 18,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_GRIMER",
+            "level": 20,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_SHELLDER",
+            "level": 25,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

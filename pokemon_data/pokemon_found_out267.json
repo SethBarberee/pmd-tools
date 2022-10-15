@@ -1,0 +1,35 @@
+{
+    "name": "pokemon_found_out267",
+    "pokemon": [
+        {
+            "species": "SPECIES_GRIMER",
+            "level": 20,
+            "probability": 2963
+        },
+        {
+            "species": "SPECIES_PIDGEOT",
+            "level": 20,
+            "probability": 2222
+        },
+        {
+            "species": "SPECIES_CAMERUPT",
+            "level": 25,
+            "probability": 2963
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SHUPPET",
+            "level": 28,
+            "probability": 1852
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

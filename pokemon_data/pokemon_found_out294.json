@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out294",
+    "pokemon": [
+        {
+            "species": "SPECIES_HYPNO",
+            "level": 33,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_FEAROW",
+            "level": 22,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_REGIROCK",
+            "level": 18,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_REGICE",
+            "level": 23,
+            "probability": 10000
+        },
+        {
+            "species": "SPECIES_REGISTEEL",
+            "level": 25,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

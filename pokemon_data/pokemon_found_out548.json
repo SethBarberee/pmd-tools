@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out548",
+    "pokemon": [
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SHUPPET",
+            "level": 28,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_BANETTE",
+            "level": 30,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_DUSKULL",
+            "level": 27,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_TROPIUS",
+            "level": 25,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_CHIMECHO",
+            "level": 22,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_ABSOL",
+            "level": 45,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

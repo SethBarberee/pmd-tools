@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out837",
+    "pokemon": [
+        {
+            "species": "SPECIES_PARASECT",
+            "level": 30,
+            "probability": 1220
+        },
+        {
+            "species": "SPECIES_VENOMOTH",
+            "level": 18,
+            "probability": 1219
+        },
+        {
+            "species": "SPECIES_WEEZING",
+            "level": 20,
+            "probability": 488
+        },
+        {
+            "species": "SPECIES_LEDIAN",
+            "level": 24,
+            "probability": 1219
+        },
+        {
+            "species": "SPECIES_FORRETRESS",
+            "level": 23,
+            "probability": 1952
+        },
+        {
+            "species": "SPECIES_ALTARIA",
+            "level": 24,
+            "probability": 1951
+        },
+        {
+            "species": "SPECIES_SOLROCK",
+            "level": 24,
+            "probability": 1951
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

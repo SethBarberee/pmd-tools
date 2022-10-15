@@ -1,0 +1,35 @@
+{
+    "name": "pokemon_found_out596",
+    "pokemon": [
+        {
+            "species": "SPECIES_MAGIKARP",
+            "level": 80,
+            "probability": 244
+        },
+        {
+            "species": "SPECIES_TOTODILE",
+            "level": 29,
+            "probability": 3658
+        },
+        {
+            "species": "SPECIES_SURSKIT",
+            "level": 24,
+            "probability": 2439
+        },
+        {
+            "species": "SPECIES_CORPHISH",
+            "level": 25,
+            "probability": 3659
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out816",
+    "pokemon": [
+        {
+            "species": "SPECIES_ARBOK",
+            "level": 21,
+            "probability": 1481
+        },
+        {
+            "species": "SPECIES_RHYHORN",
+            "level": 16,
+            "probability": 1482
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 370
+        },
+        {
+            "species": "SPECIES_MAGCARGO",
+            "level": 21,
+            "probability": 1482
+        },
+        {
+            "species": "SPECIES_PILOSWINE",
+            "level": 16,
+            "probability": 1481
+        },
+        {
+            "species": "SPECIES_MIGHTYENA",
+            "level": 17,
+            "probability": 1111
+        },
+        {
+            "species": "SPECIES_SWABLU",
+            "level": 18,
+            "probability": 1112
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SNORUNT",
+            "level": 20,
+            "probability": 1481
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

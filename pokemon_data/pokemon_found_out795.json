@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out795",
+    "pokemon": [
+        {
+            "species": "SPECIES_GLOOM",
+            "level": 10,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_DODUO",
+            "level": 14,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_TAUROS",
+            "level": 15,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_MURKROW",
+            "level": 14,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_HERACROSS",
+            "level": 14,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_BRELOOM",
+            "level": 14,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_MANECTRIC",
+            "level": 10,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_CACNEA",
+            "level": 13,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out424",
+    "pokemon": [
+        {
+            "species": "SPECIES_HYPNO",
+            "level": 33,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_MR. MIME",
+            "level": 29,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_KIRLIA",
+            "level": 20,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_LUNATONE",
+            "level": 24,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_METANG",
+            "level": 25,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

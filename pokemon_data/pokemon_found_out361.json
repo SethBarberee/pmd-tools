@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out361",
+    "pokemon": [
+        {
+            "species": "SPECIES_DUGTRIO",
+            "level": 30,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_MAROWAK",
+            "level": 24,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_ARIADOS",
+            "level": 27,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_GLIGAR",
+            "level": 22,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_NIDOQUEEN",
+            "level": 28,
+            "probability": 2000
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out463",
+    "pokemon": [
+        {
+            "species": "SPECIES_MUK",
+            "level": 36,
+            "probability": 2353
+        },
+        {
+            "species": "SPECIES_CROBAT",
+            "level": 24,
+            "probability": 2353
+        },
+        {
+            "species": "SPECIES_MISDREAVUS",
+            "level": 25,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_SWALOT",
+            "level": 34,
+            "probability": 1764
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SHUPPET",
+            "level": 28,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

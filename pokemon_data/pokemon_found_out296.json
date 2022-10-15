@@ -1,0 +1,35 @@
+{
+    "name": "pokemon_found_out296",
+    "pokemon": [
+        {
+            "species": "SPECIES_ABRA",
+            "level": 16,
+            "probability": 76
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 1527
+        },
+        {
+            "species": "SPECIES_SHEDINJA",
+            "level": 88,
+            "probability": 2290
+        },
+        {
+            "species": "SPECIES_MAKUHITA",
+            "level": 25,
+            "probability": 6107
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "pokemon_found_out372",
+    "pokemon": [
+        {
+            "species": "SPECIES_DRATINI",
+            "level": 30,
+            "probability": 6154
+        },
+        {
+            "species": "SPECIES_JUMPLUFF",
+            "level": 30,
+            "probability": 769
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_BAGON",
+            "level": 40,
+            "probability": 3077
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

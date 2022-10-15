@@ -1,0 +1,30 @@
+{
+    "name": "pokemon_found_out227",
+    "pokemon": [
+        {
+            "species": "SPECIES_MACHOP",
+            "level": 11,
+            "probability": 4167
+        },
+        {
+            "species": "SPECIES_SWINUB",
+            "level": 8,
+            "probability": 2916
+        },
+        {
+            "species": "SPECIES_SKARMORY",
+            "level": 10,
+            "probability": 2917
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

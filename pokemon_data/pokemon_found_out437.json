@@ -1,0 +1,35 @@
+{
+    "name": "pokemon_found_out437",
+    "pokemon": [
+        {
+            "species": "SPECIES_JOLTEON",
+            "level": 25,
+            "probability": 4211
+        },
+        {
+            "species": "SPECIES_PLUSLE",
+            "level": 30,
+            "probability": 1578
+        },
+        {
+            "species": "SPECIES_MINUN",
+            "level": 30,
+            "probability": 1579
+        },
+        {
+            "species": "SPECIES_CACTURNE",
+            "level": 35,
+            "probability": 2632
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

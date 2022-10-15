@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out824",
+    "pokemon": [
+        {
+            "species": "SPECIES_VILEPLUME",
+            "level": 14,
+            "probability": 732
+        },
+        {
+            "species": "SPECIES_KOFFING",
+            "level": 20,
+            "probability": 1951
+        },
+        {
+            "species": "SPECIES_MAGCARGO",
+            "level": 21,
+            "probability": 1951
+        },
+        {
+            "species": "SPECIES_MASQUERAIN",
+            "level": 27,
+            "probability": 1464
+        },
+        {
+            "species": "SPECIES_SLAKING",
+            "level": 15,
+            "probability": 1951
+        },
+        {
+            "species": "SPECIES_CASTFORM",
+            "level": 10,
+            "probability": 488
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_GLALIE",
+            "level": 20,
+            "probability": 1463
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

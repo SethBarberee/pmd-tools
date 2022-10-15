@@ -1,0 +1,30 @@
+{
+    "name": "pokemon_found_out397",
+    "pokemon": [
+        {
+            "species": "SPECIES_MACHOKE",
+            "level": 24,
+            "probability": 3333
+        },
+        {
+            "species": "SPECIES_MAGCARGO",
+            "level": 30,
+            "probability": 3334
+        },
+        {
+            "species": "SPECIES_COMBUSKEN",
+            "level": 26,
+            "probability": 3333
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

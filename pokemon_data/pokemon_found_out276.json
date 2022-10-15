@@ -1,0 +1,35 @@
+{
+    "name": "pokemon_found_out276",
+    "pokemon": [
+        {
+            "species": "SPECIES_WEEZING",
+            "level": 20,
+            "probability": 769
+        },
+        {
+            "species": "SPECIES_CLAYDOL",
+            "level": 26,
+            "probability": 3077
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SALAMENCE",
+            "level": 26,
+            "probability": 3077
+        },
+        {
+            "species": "SPECIES_METAGROSS",
+            "level": 28,
+            "probability": 3077
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

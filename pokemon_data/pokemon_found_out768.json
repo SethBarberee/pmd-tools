@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out768",
+    "pokemon": [
+        {
+            "species": "SPECIES_WEEDLE",
+            "level": 8,
+            "probability": 1304
+        },
+        {
+            "species": "SPECIES_GEODUDE",
+            "level": 80,
+            "probability": 1087
+        },
+        {
+            "species": "SPECIES_EEVEE",
+            "level": 9,
+            "probability": 870
+        },
+        {
+            "species": "SPECIES_MARILL",
+            "level": 8,
+            "probability": 1739
+        },
+        {
+            "species": "SPECIES_RALTS",
+            "level": 8,
+            "probability": 1739
+        },
+        {
+            "species": "SPECIES_PLUSLE",
+            "level": 56,
+            "probability": 1087
+        },
+        {
+            "species": "SPECIES_MINUN",
+            "level": 56,
+            "probability": 1087
+        },
+        {
+            "species": "SPECIES_BALTOY",
+            "level": 88,
+            "probability": 1087
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

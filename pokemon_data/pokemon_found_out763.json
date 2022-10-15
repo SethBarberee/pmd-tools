@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out763",
+    "pokemon": [
+        {
+            "species": "SPECIES_RATTATA",
+            "level": 48,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_NIDORAN\u2640",
+            "level": 64,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_CLEFAIRY",
+            "level": 8,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_VOLTORB",
+            "level": 48,
+            "probability": 1459
+        },
+        {
+            "species": "SPECIES_TOGEPI",
+            "level": 112,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_ARBOK",
+            "level": 72,
+            "probability": 1250
+        },
+        {
+            "species": "SPECIES_ZIGZAGOON",
+            "level": 88,
+            "probability": 1042
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out589",
+    "pokemon": [
+        {
+            "species": "SPECIES_PIDGEY",
+            "level": 16,
+            "probability": 152
+        },
+        {
+            "species": "SPECIES_SNORLAX",
+            "level": 25,
+            "probability": 151
+        },
+        {
+            "species": "SPECIES_HOUNDOOM",
+            "level": 20,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_MIGHTYENA",
+            "level": 25,
+            "probability": 2425
+        },
+        {
+            "species": "SPECIES_LOUDRED",
+            "level": 10,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_GRUMPIG",
+            "level": 15,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

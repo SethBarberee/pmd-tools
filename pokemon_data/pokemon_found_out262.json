@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out262",
+    "pokemon": [
+        {
+            "species": "SPECIES_NIDOQUEEN",
+            "level": 20,
+            "probability": 1892
+        },
+        {
+            "species": "SPECIES_GOLEM",
+            "level": 15,
+            "probability": 2162
+        },
+        {
+            "species": "SPECIES_RHYDON",
+            "level": 23,
+            "probability": 2162
+        },
+        {
+            "species": "SPECIES_MAGCARGO",
+            "level": 21,
+            "probability": 2162
+        },
+        {
+            "species": "SPECIES_PIKACHU",
+            "level": 17,
+            "probability": 1622
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

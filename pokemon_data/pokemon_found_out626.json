@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out626",
+    "pokemon": [
+        {
+            "species": "SPECIES_KAKUNA",
+            "level": 9,
+            "probability": 645
+        },
+        {
+            "species": "SPECIES_CLEFAIRY",
+            "level": 8,
+            "probability": 2581
+        },
+        {
+            "species": "SPECIES_PSYDUCK",
+            "level": 11,
+            "probability": 2580
+        },
+        {
+            "species": "SPECIES_PINSIR",
+            "level": 96,
+            "probability": 1613
+        },
+        {
+            "species": "SPECIES_CHIKORITA",
+            "level": 9,
+            "probability": 2581
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

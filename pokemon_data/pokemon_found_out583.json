@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out583",
+    "pokemon": [
+        {
+            "species": "SPECIES_HOUNDOUR",
+            "level": 18,
+            "probability": 2462
+        },
+        {
+            "species": "SPECIES_POOCHYENA",
+            "level": 20,
+            "probability": 2461
+        },
+        {
+            "species": "SPECIES_WHISMUR",
+            "level": 15,
+            "probability": 2462
+        },
+        {
+            "species": "SPECIES_AZURILL",
+            "level": 11,
+            "probability": 153
+        },
+        {
+            "species": "SPECIES_SPOINK",
+            "level": 13,
+            "probability": 2462
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "pokemon_found_out638",
+    "pokemon": [
+        {
+            "species": "SPECIES_CLEFABLE",
+            "level": 15,
+            "probability": 1304
+        },
+        {
+            "species": "SPECIES_EXEGGUTOR",
+            "level": 8,
+            "probability": 1305
+        },
+        {
+            "species": "SPECIES_LEDYBA",
+            "level": 112,
+            "probability": 1739
+        },
+        {
+            "species": "SPECIES_SUNFLORA",
+            "level": 8,
+            "probability": 869
+        },
+        {
+            "species": "SPECIES_EKANS",
+            "level": 15,
+            "probability": 1305
+        },
+        {
+            "species": "SPECIES_SHROOMISH",
+            "level": 9,
+            "probability": 1739
+        },
+        {
+            "species": "SPECIES_TRAPINCH",
+            "level": 11,
+            "probability": 1739
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

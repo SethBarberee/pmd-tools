@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out669",
+    "pokemon": [
+        {
+            "species": "SPECIES_PONYTA",
+            "level": 30,
+            "probability": 1321
+        },
+        {
+            "species": "SPECIES_RAPIDASH",
+            "level": 16,
+            "probability": 1509
+        },
+        {
+            "species": "SPECIES_RHYHORN",
+            "level": 16,
+            "probability": 1510
+        },
+        {
+            "species": "SPECIES_DITTO",
+            "level": 25,
+            "probability": 377
+        },
+        {
+            "species": "SPECIES_MIGHTYENA",
+            "level": 17,
+            "probability": 1132
+        },
+        {
+            "species": "SPECIES_TORKOAL",
+            "level": 15,
+            "probability": 1509
+        },
+        {
+            "species": "SPECIES_SWABLU",
+            "level": 18,
+            "probability": 1133
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_METANG",
+            "level": 17,
+            "probability": 1509
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

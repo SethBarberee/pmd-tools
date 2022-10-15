@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out830",
+    "pokemon": [
+        {
+            "species": "SPECIES_NIDOKING",
+            "level": 21,
+            "probability": 2500
+        },
+        {
+            "species": "SPECIES_VILEPLUME",
+            "level": 14,
+            "probability": 1071
+        },
+        {
+            "species": "SPECIES_GOLEM",
+            "level": 15,
+            "probability": 2858
+        },
+        {
+            "species": "SPECIES_MAGMAR",
+            "level": 21,
+            "probability": 2857
+        },
+        {
+            "species": "SPECIES_CASTFORM",
+            "level": 10,
+            "probability": 714
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

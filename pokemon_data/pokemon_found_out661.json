@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out661",
+    "pokemon": [
+        {
+            "species": "SPECIES_WIGGLYTUFF",
+            "level": 25,
+            "probability": 1695
+        },
+        {
+            "species": "SPECIES_ELECTRODE",
+            "level": 20,
+            "probability": 1370
+        },
+        {
+            "species": "SPECIES_CHANSEY",
+            "level": 15,
+            "probability": 86
+        },
+        {
+            "species": "SPECIES_TANGELA",
+            "level": 14,
+            "probability": 1370
+        },
+        {
+            "species": "SPECIES_MAGMAR",
+            "level": 21,
+            "probability": 1369
+        },
+        {
+            "species": "SPECIES_AZUMARILL",
+            "level": 24,
+            "probability": 1370
+        },
+        {
+            "species": "SPECIES_PIKACHU",
+            "level": 17,
+            "probability": 1370
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SNORUNT",
+            "level": 20,
+            "probability": 1370
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

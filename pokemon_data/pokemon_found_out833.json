@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out833",
+    "pokemon": [
+        {
+            "species": "SPECIES_PARASECT",
+            "level": 30,
+            "probability": 1562
+        },
+        {
+            "species": "SPECIES_GRIMER",
+            "level": 20,
+            "probability": 2500
+        },
+        {
+            "species": "SPECIES_PIDGEOT",
+            "level": 20,
+            "probability": 1875
+        },
+        {
+            "species": "SPECIES_CAMERUPT",
+            "level": 25,
+            "probability": 2500
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SHUPPET",
+            "level": 28,
+            "probability": 1563
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out534",
+    "pokemon": [
+        {
+            "species": "SPECIES_GASTLY",
+            "level": 15,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_HYPNO",
+            "level": 15,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_VOLTORB",
+            "level": 48,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_EXEGGCUTE",
+            "level": 16,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_HITMONLEE",
+            "level": 22,
+            "probability": 1666
+        },
+        {
+            "species": "SPECIES_LICKITUNG",
+            "level": 36,
+            "probability": 1667
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

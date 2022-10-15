@@ -1,0 +1,20 @@
+{
+    "name": "pokemon_found_out205",
+    "pokemon": [
+        {
+            "species": "SPECIES_MEWTWO",
+            "level": 40,
+            "probability": 10000
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

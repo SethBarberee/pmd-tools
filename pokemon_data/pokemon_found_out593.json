@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out593",
+    "pokemon": [
+        {
+            "species": "SPECIES_POLIWAG",
+            "level": 40,
+            "probability": 1176
+        },
+        {
+            "species": "SPECIES_GOLDEEN",
+            "level": 25,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_WOOPER",
+            "level": 32,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_MUDKIP",
+            "level": 28,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_LOTAD",
+            "level": 30,
+            "probability": 1764
+        },
+        {
+            "species": "SPECIES_BARBOACH",
+            "level": 25,
+            "probability": 1765
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

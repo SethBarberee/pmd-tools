@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out735",
+    "pokemon": [
+        {
+            "species": "SPECIES_JYNX",
+            "level": 32,
+            "probability": 2051
+        },
+        {
+            "species": "SPECIES_CLEFFA",
+            "level": 16,
+            "probability": 1026
+        },
+        {
+            "species": "SPECIES_MARILL",
+            "level": 8,
+            "probability": 769
+        },
+        {
+            "species": "SPECIES_WHISMUR",
+            "level": 24,
+            "probability": 2051
+        },
+        {
+            "species": "SPECIES_ROSELIA",
+            "level": 16,
+            "probability": 2052
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_WYNAUT",
+            "level": 24,
+            "probability": 2051
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

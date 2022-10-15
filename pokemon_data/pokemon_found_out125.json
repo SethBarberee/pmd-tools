@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out125",
+    "pokemon": [
+        {
+            "species": "SPECIES_TENTACRUEL",
+            "level": 33,
+            "probability": 2542
+        },
+        {
+            "species": "SPECIES_SEADRA",
+            "level": 20,
+            "probability": 2034
+        },
+        {
+            "species": "SPECIES_STARMIE",
+            "level": 22,
+            "probability": 2034
+        },
+        {
+            "species": "SPECIES_KABUTOPS",
+            "level": 28,
+            "probability": 1356
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_SEALEO",
+            "level": 22,
+            "probability": 2034
+        },
+        {
+            "species": "SPECIES_WALREIN",
+            "level": 28,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out749",
+    "pokemon": [
+        {
+            "species": "SPECIES_KANGASKHAN",
+            "level": 36,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_WOBBUFFET",
+            "level": 20,
+            "probability": 2106
+        },
+        {
+            "species": "SPECIES_PIKACHU",
+            "level": 17,
+            "probability": 1315
+        },
+        {
+            "species": "SPECIES_SANDSHREW",
+            "level": 28,
+            "probability": 263
+        },
+        {
+            "species": "SPECIES_GARDEVOIR",
+            "level": 18,
+            "probability": 2106
+        },
+        {
+            "species": "SPECIES_HARIYAMA",
+            "level": 35,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

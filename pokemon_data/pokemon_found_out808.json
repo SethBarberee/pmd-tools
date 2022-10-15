@@ -1,0 +1,55 @@
+{
+    "name": "pokemon_found_out808",
+    "pokemon": [
+        {
+            "species": "SPECIES_FEAROW",
+            "level": 17,
+            "probability": 1034
+        },
+        {
+            "species": "SPECIES_ARCANINE",
+            "level": 18,
+            "probability": 1380
+        },
+        {
+            "species": "SPECIES_ELECTRODE",
+            "level": 20,
+            "probability": 1379
+        },
+        {
+            "species": "SPECIES_HITMONLEE",
+            "level": 22,
+            "probability": 1207
+        },
+        {
+            "species": "SPECIES_HITMONCHAN",
+            "level": 22,
+            "probability": 1207
+        },
+        {
+            "species": "SPECIES_FORRETRESS",
+            "level": 23,
+            "probability": 1379
+        },
+        {
+            "species": "SPECIES_SHUCKLE",
+            "level": 15,
+            "probability": 1380
+        },
+        {
+            "species": "SPECIES_ILLUMISE",
+            "level": 20,
+            "probability": 1034
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

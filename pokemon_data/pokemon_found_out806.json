@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out806",
+    "pokemon": [
+        {
+            "species": "SPECIES_NIDORINA",
+            "level": 15,
+            "probability": 1579
+        },
+        {
+            "species": "SPECIES_NIDORINO",
+            "level": 15,
+            "probability": 1316
+        },
+        {
+            "species": "SPECIES_GOLBAT",
+            "level": 10,
+            "probability": 1316
+        },
+        {
+            "species": "SPECIES_ARCANINE",
+            "level": 18,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_TANGELA",
+            "level": 14,
+            "probability": 2105
+        },
+        {
+            "species": "SPECIES_ILLUMISE",
+            "level": 20,
+            "probability": 1579
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

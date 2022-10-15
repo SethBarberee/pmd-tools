@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out774",
+    "pokemon": [
+        {
+            "species": "SPECIES_ODDISH",
+            "level": 112,
+            "probability": 698
+        },
+        {
+            "species": "SPECIES_SCYTHER",
+            "level": 10,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_HOOTHOOT",
+            "level": 96,
+            "probability": 1861
+        },
+        {
+            "species": "SPECIES_SUDOWOODO",
+            "level": 112,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_LINOONE",
+            "level": 8,
+            "probability": 1861
+        },
+        {
+            "species": "SPECIES_SLAKOTH",
+            "level": 8,
+            "probability": 1860
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out605",
+    "pokemon": [
+        {
+            "species": "SPECIES_POLIWRATH",
+            "level": 30,
+            "probability": 1786
+        },
+        {
+            "species": "SPECIES_QUAGSIRE",
+            "level": 24,
+            "probability": 2678
+        },
+        {
+            "species": "SPECIES_MARSHTOMP",
+            "level": 28,
+            "probability": 2679
+        },
+        {
+            "species": "SPECIES_WHISCASH",
+            "level": 30,
+            "probability": 2678
+        },
+        {
+            "species": "SPECIES_FEEBAS",
+            "level": 88,
+            "probability": 179
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

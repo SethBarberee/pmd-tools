@@ -1,0 +1,40 @@
+{
+    "name": "pokemon_found_out191",
+    "pokemon": [
+        {
+            "species": "SPECIES_FERALIGATR",
+            "level": 32,
+            "probability": 1429
+        },
+        {
+            "species": "SPECIES_SKARMORY",
+            "level": 55,
+            "probability": 1428
+        },
+        {
+            "species": "SPECIES_GROVYLE",
+            "level": 20,
+            "probability": 2857
+        },
+        {
+            "species": "SPECIES_BLAZIKEN",
+            "level": 30,
+            "probability": 2857
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_ABSOL",
+            "level": 45,
+            "probability": 1429
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "pokemon_found_out413",
+    "pokemon": [
+        {
+            "species": "SPECIES_WARTORTLE",
+            "level": 30,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_GOLDUCK",
+            "level": 24,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_VAPOREON",
+            "level": 22,
+            "probability": 304
+        },
+        {
+            "species": "SPECIES_CROCONAW",
+            "level": 28,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_FERALIGATR",
+            "level": 60,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_POLITOED",
+            "level": 28,
+            "probability": 2424
+        },
+        {
+            "species": "SPECIES_KECLEON",
+            "level": 90,
+            "probability": 0
+        },
+        {
+            "species": "SPECIES_DECOY",
+            "level": 1,
+            "probability": 0
+        }
+    ]
+}
