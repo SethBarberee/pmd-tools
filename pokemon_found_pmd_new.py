@@ -4,7 +4,7 @@ from typing import Dict
 file = open('data.inc', 'r')
 Lines = file.readlines()
 probability_total = 0
-num_floors = 112
+num_floors = 611
 
 
 master_dict = []
@@ -473,44 +473,38 @@ for i in range(0, len(splitLine), 8):
     # byte 4 - 5: percentage
     # byte 6 - 7: always zero
 
-    SpeciesID = chunk[0].lstrip(" 0x")
+
+    # Method from PMDe - Thanks Aurum
+    # Get first two bytes as a short
+    mask = chunk[1].lstrip("0x").zfill(2) + chunk[0].lstrip("0x").zfill(2)
+    mask = int(mask, 16)
+
+    # Apply the following mask and divide by 512 to get the level
+    level = int((mask ^ 0x1A8) / 0x200)
+
+    SpeciesID = mask - 0x200 * level
+
 
     if not SpeciesID:
         # We catch our all 0 line here and skip it
         probability_total = 0  # reset our total
         printList = True  # time to export our table
     else:
-        # Sometimes overflow into next byte so check
-        SpeciesTest = chunk[1].lstrip("0x")
-        SpeciesTest = int(SpeciesTest, 16)
-        if SpeciesTest & 1:
-            SpeciesID = "1" + SpeciesID
-        # print("SpeciesID HEX: {}".format(SpeciesID))
-        # print("species: {}".format(int(SpeciesID, 16)))
+        print("species: " + str(SpeciesID))
 
-    level = chunk[1].strip(" 0x")
+    #level = chunk[1].strip(" 0x")
     if printList:
         print("")
     else:
         if not level:
             print("level: 0")
         else:
-            temp = '{:<04}'
-            level = temp.format(level)
-            print("LEVEL HEX: {}".format(level))
-            level = int(level, 16)
-            level = level / 512
             print("level: {}".format(level))
 
             # BUG: decoy level is messed up so hardcode to 1 so we still match
-            print("TEST " + SpeciesID)
+            # print("TEST " + SpeciesID)
             if SpeciesID == "1a5":
                 level = 1
-
-    # Use lstrip to only strip the beginning
-    # print("PERCENT DEBUG: " + chunk[3] + " " + chunk[2])
-    # print("PERCENT H: " + chunk[3].lstrip("0x").zfill(2))
-    # print("PERCENT L: " + chunk[2].lstrip("0x").zfill(2))
 
     # Zfill to get leading zero back to not fuck our percentages
     percentage = chunk[3].lstrip("0x").zfill(2) + chunk[2].lstrip("0x").zfill(2)
@@ -531,7 +525,7 @@ for i in range(0, len(splitLine), 8):
 
     if not printList:
         pokemon_dict = {
-                'species': species_map[int(SpeciesID, 16)],
+                'species': species_map[SpeciesID],
                 'level': int(level),
                 'probability': int(cur_percentage)
         }
